@@ -1,0 +1,84 @@
+body {
+   background-color: black;
+}
+#div-naslov {
+   position: relative;
+   bottom: 5vw;
+}
+#ime-naslov {
+   color: white; opacity: 1;
+   background-color: black; 
+   font-size: 15vw;
+}
+#div-moja-biografija {
+   text-align: left;
+   position: relative;
+   left: 1vw;
+   bottom: 3vw;
+}
+#moja-biografija {
+   color: white; opacity: 0.9;
+   font-size: 8vw;
+   font-weight: bolder;
+   text-decoration: underline; 
+   text-decoration-color: grey;
+}
+#div-biografija {
+   position: relative;
+   bottom: 3vw;
+}
+#biografija {
+   color: white; opacity: 0.9;
+   font-size: 3vw;
+}
+#moja-slika {
+   color: white; opacity: 0.9;
+   font-size: 8vw;
+   font-weight: bolder;
+   text-decoration: underline; 
+   text-decoration-color: grey;
+   text-align: right;
+   position: relative;
+   top: 20vw;
+   right: 1vw;
+}
+#div-image {
+   position: relative;
+   top: 18vw;
+   right: 8vw;
+   text-align: right;
+}
+#moja-zanimanja {
+   color: white; opacity: 0.9;
+   font-size: 8vw;
+   font-weight: bolder;
+   text-decoration: underline; 
+   text-decoration-color: grey;
+   position: relative;
+   left: 1vw;
+   top: 25vw;
+}
+#div-zanimanja {
+   color: white; opacity: 0.9;
+   font-size: 3vw;
+   position: relative;
+   top: 23vw;
+   left: 1vw;
+}
+#moji-linkovi {
+   color: white; opacity: 0.9;
+   font-size: 8vw;
+   font-weight: bolder;
+   text-decoration: underline; 
+   text-decoration-color: grey;
+   text-align: center;
+   position: relative;
+   top: 42vw;
+}
+#facebook-link {
+   color: white; opacity: 0.9;
+   font-size: 3vw;
+   text-align: center;
+   position: relative;
+   top: 42vw;
+}
