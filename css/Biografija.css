@@ -1,5 +1,5 @@
 body {
-   background-color: black;
+   background-image: url(../slike/Page\ image\ \(1\).png);
 }
 #div-naslov {
    position: relative;
@@ -7,8 +7,11 @@ body {
 }
 #ime-naslov {
    color: white; opacity: 1;
-   background-color: black; 
-   font-size: 15vw;
+   font-size: 16vw;
+}
+#span-damir {
+   color: grey; 
+   font-size: 16vw;
 }
 #div-moja-biografija {
    text-align: left;
@@ -66,7 +69,7 @@ body {
    left: 1vw;
 }
 #moji-linkovi {
-   color: white; opacity: 0.9;
+   color: grey; opacity: 0.9;
    font-size: 8vw;
    font-weight: bolder;
    text-decoration: underline; 
